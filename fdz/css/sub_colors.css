@@ -2,6 +2,7 @@
 .c-white{color: #fff !important;}
 .c-black{color: #000 !important;}
 .c-red{color: #ff0000 !important;}
+.c-red-1{color: #9c1c54;}
 .c-blue-1{color: #1572B6;}
 .c-blue-2{color: #35A8DB;}
 .c-blue-3{color: #00CED1;}
@@ -70,6 +71,7 @@
 .bc-blue-4-t7{background: rgba(175, 238, 238, 0.7)}
 .bc-blue-4-t8{background: rgba(175, 238, 238, 0.8)}
 .bc-blue-4-t9{background: rgba(175, 238, 238, 0.9)}
+.bc-red-1{background: #9c1c54;}
 
 /* Hover Item */
 .hva-1 {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
@@ -83,36 +85,36 @@
 .bg-geo-1 {
 	background-image: url('../img/bg-geo-1.png');
 	background-size: 100%;
-	background-repeat: repeat-y;}
+	background-repeat: no-repeat;}
 .bg-geo-2 {
-	background-image: url('../img/bg-geo-2.png');
-	background-size: 100%;
-	background-repeat: repeat-y;}
-.bg-geo-2 {
-	background-image: url('../img/bg-geo-3.png');
-	background-size: 100%;
-	background-repeat: repeat-y;}
+	background-image: url('../img/bg-geo-21.png');
+	background-size: 100% 100%;
+	background-repeat: no-repeat;}
 .bg-geo-3 {
-	background-image: url('../img/bg-geo-4.png');
+	background-image: url('../img/bg-geo-3.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-4 {
-	background-image: url('../img/bg-geo-5.png');
+	background-image: url('../img/bg-geo-4.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-5 {
-	background-image: url('../img/bg-geo-6.png');
+	background-image: url('../img/bg-geo-5.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-6 {
-	background-image: url('../img/bg-geo-7.png');
+	background-image: url('../img/bg-geo-6.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-7 {
-	background-image: url('../img/bg-geo-8.png');
+	background-image: url('../img/bg-geo-7.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}
 .bg-geo-8 {
+	background-image: url('../img/bg-geo-8.png');
+	background-size: 100%;
+	background-repeat: no-repeat;}
+.bg-geo-9 {
 	background-image: url('../img/bg-geo-9.png');
 	background-size: 100%;
 	background-repeat: no-repeat;}

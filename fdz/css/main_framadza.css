@@ -32,3 +32,17 @@ code {
 .cr {
 	cursor: pointer;
 }
+.rv-dek {
+	display: block;
+}
+.rv-mob {
+	display: none;
+}
+@media only screen and (max-width: 768px) {
+.rv-dek {
+	display: none;
+}
+.rv-mob {
+	display: block;
+}
+}
