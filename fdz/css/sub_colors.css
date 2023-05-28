@@ -1,6 +1,7 @@
 /* Color */
 .c-white{color: #fff !important;}
 .c-black{color: #000 !important;}
+.c-green{color: green;}
 .c-red{color: #ff0000 !important;}
 .c-red-1{color: #9c1c54;}
 .c-blue-1{color: #1572B6;}
@@ -72,6 +73,7 @@
 .bc-blue-4-t8{background: rgba(175, 238, 238, 0.8)}
 .bc-blue-4-t9{background: rgba(175, 238, 238, 0.9)}
 .bc-red-1{background: #9c1c54;}
+.bc-green-1{background: green;}
 
 /* Hover Item */
 .hva-1 {box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;}
